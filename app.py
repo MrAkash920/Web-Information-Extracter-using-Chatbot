@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import streamlit as st
 
 
-openai.api_key = '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'
+openai.api_key = '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'
 
 def scrape_info(url):
     try:
