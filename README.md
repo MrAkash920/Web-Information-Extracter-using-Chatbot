@@ -27,21 +27,21 @@ Follow these steps to get started with WebChatBot:
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/MrAkash920/WebChatBot-Chatbot-Web-Application.git
    ```
 
 2. Change into the project directory:
 
    ```
-   cd your-repo
+   cd WebChatBot-Chatbot-Web-Application
    ```
 
-3. Open the `config.py` file and replace `YOUR_API_KEY_HERE` with your ChatGPT API key.
+3. In app.py replace `YOUR_API_KEY_HERE` with your ChatGPT API key.
 
 4. Run the Streamlit application:
 
    ```
-   streamlit run chatbot_app.py
+   streamlit run app.py
    ```
 
 5. Open your web browser and access the application at http://localhost:8501.
