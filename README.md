@@ -2,6 +2,8 @@
 
 WebChatBot is a simple web application developed in Python using Streamlit, leveraging the power of the ChatGPT API and web scraping. It allows users to interact with a chatbot that can provide information about a website and answer questions related to it. Please note that the ChatGPT API key provided in this repository is for trial purposes. To run the application, you will need to replace it with your own API key.
 
+![Demo](demo.png)
+
 ## Features
 
 - Information about a website: You can provide a website URL, and the chatbot will provide information such as the website's title, description, and keywords.
